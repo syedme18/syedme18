@@ -60,6 +60,12 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Wazuh-00008B?&style=for-the-badge&logo=Wazuh&logoColor=white" /></a>
 </div>
 
+### SOAR
+<div>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Shuffle-4169E1?&style=for-the-badge&logoColor=white" /></a>
+</div>
+
+
 ### Offensive Security
 <div>
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Metasploit-2A2F39?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
