@@ -2,11 +2,9 @@
 <a href="https://www.linkedin.com/in/syed-mohd-hassan-0b46a8248/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
-<br>
+
 Final-year MCA student with a strong foundation in computer science and a growing expertise in cybersecurity. Passionate about Defensive Security, focused on identifying, analyzing, and mitigating security threats while continuously developing skills to protect digital environments.
-<br>
-<br>
+
 # Skills 🛠
 <div>
   <a href="#"><img src="https://img.shields.io/badge/Information%20Security-5C8DBB?style=for-the-badge&logo=security&logoColor=white" style="pointer-events: none;" /></a>
