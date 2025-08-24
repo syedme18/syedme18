@@ -86,6 +86,15 @@ Final-year MCA student with a strong foundation in computer science and a growin
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Process_Hacker-00CED1?&style=for-the-badge&logoColor=white" /></a>
 </div>
  
+# Hands-On SOC Investigation | LetsDefend
+### Possible SQL Injection Payload Detection
+<img width="1503" height="652" alt="Screenshot 2025-08-24 172353" src="https://github.com/user-attachments/assets/61f1f16f-2377-4f0b-a8be-b2718522c0dc" />
+
+### VBScript Suspicious Behavior Detection
+<img width="1487" height="614" alt="Screenshot 2025-08-24 172657" src="https://github.com/user-attachments/assets/6a2cbf4d-c9d9-4897-86fd-471d9b852107" />
+
+### Suspicious Xls File Detection
+<img width="1495" height="564" alt="Screenshot 2025-08-24 172718" src="https://github.com/user-attachments/assets/466f89ab-4154-49f3-a921-a1675011fe3a" />
 
 
 
