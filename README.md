@@ -96,6 +96,10 @@ Final-year MCA student with a strong foundation in computer science and a growin
 ### Suspicious Xls File Detection
 <img width="1495" height="564" alt="Screenshot 2025-08-24 172718" src="https://github.com/user-attachments/assets/466f89ab-4154-49f3-a921-a1675011fe3a" />
 
+### RDP Brute Force Detected
+<img width="1574" height="477" alt="Screenshot 2025-11-02 005126" src="https://github.com/user-attachments/assets/3e164e63-f6d1-4095-a7fe-a6bf4cae0297" />
+
+
 
 
 
